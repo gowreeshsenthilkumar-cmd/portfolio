@@ -47,7 +47,7 @@ export const PROJECTS = [
   {
     name: "AgroPro",
     domain: "agropro.in",
-    url: "https://agropro.in",
+    url: "https://lumina-apparel-builder-ndzipth1dwhhwxic.hostingersite.com/",
     type: "Live E-Commerce Platform",
     role: "Team Lead",
     image: "https://images.hostinger.com/89b91fe3-8ac3-4d0c-b265-10727619fd2b.png",
@@ -63,7 +63,7 @@ export const PROJECTS = [
   {
     name: "PowerParks",
     domain: "powerparks.in",
-    url: "https://powerparks.in",
+    url: "https://www.powerpark.in/",
     type: "Live Business Website",
     role: "Solo Developer",
     image: "https://images.hostinger.com/df352ce3-a07a-4301-bfc5-eec44d820959.png",
