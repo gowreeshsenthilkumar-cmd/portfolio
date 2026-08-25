@@ -27,7 +27,8 @@ export function About() {
           <Reveal className="rounded-3xl glass p-8">
             <p className="text-white/70 leading-relaxed">
               I'm a B.Tech Information Technology student (Honours in AI) at Mahendra
-              Engineering College, Namakkal — but my strongest learning has come from
+              Engineering College, Namakkal and currently pursuing my MBA 
+              while working as a freelancer — but my strongest learning has come from
               building and running real websites. From an agricultural e-commerce
               marketplace to solar-energy and premium wellness brands, I've handled the
               full lifecycle: design, development, deployment, catalogues, orders, and
