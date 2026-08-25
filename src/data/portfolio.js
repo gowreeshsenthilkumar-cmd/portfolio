@@ -5,12 +5,14 @@ export const CONTACT = {
   phone: "+91 8903770452",
   linkedin: "https://linkedin.com/in/gowreesh-ss",
   linkedinLabel: "linkedin.com/in/gowreesh-ss",
+  github:"https://github.com/gowreeshsenthilkumar-cmd",
+  githubLabel: "github.com/gowreeshsenthilkumar-cmd",
   location: "Namakkal, Tamil Nadu",
   portrait: "https://horizons-cdn.hostinger.com/23a03e34-40d3-4b0f-bafb-8fc2945f4667/a433bf609ecd4840a63b7ab496e446c3.png",
 };
 
 export const STATS = [
-  { value: 3, label: "Live Projects Completed" },
+  { value: 5, label: "Live Projects Completed" },
   { value: 3, label: "Internships" },
   { value: 3, label: "Leadership Roles" },
   { value: 1, label: "Research Publications" },
@@ -20,7 +22,7 @@ export const STATS = [
 export const SKILLS = [
   {
     category: "Programming Languages",
-    items: ["Python (Basics)", "Java"],
+    items: ["Python", "Java"],
   },
   {
     category: "Web Technologies",
@@ -28,7 +30,7 @@ export const SKILLS = [
   },
   {
     category: "Tools & Platforms",
-    items: ["VS Code", "NetBeans IDE", "Hostinger", "MS Office"],
+    items: ["VS Code", "NetBeans IDE", "Hostinger", "MS Office","GitHub","Versel"],
   },
   {
     category: "Professional Skills",
@@ -39,6 +41,7 @@ export const SKILLS = [
       "Product Management",
       "Team Leadership",
       "Research & Documentation",
+      "Freelancer",
     ],
   },
 ];
