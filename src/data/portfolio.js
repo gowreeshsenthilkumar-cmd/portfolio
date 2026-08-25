@@ -80,7 +80,7 @@ export const PROJECTS = [
     name: "Purely Greens",
     domain: "purelygreen.sg",
     url: "https://purelygreen.sg",
-    type: "Live Business Website",
+    type: "   ",
     role: "Solo Developer",
     image: "https://images.hostinger.com/dc0b1a19-a060-42c6-aad9-95fe5efdce24.png",
     description:
@@ -90,6 +90,42 @@ export const PROJECTS = [
       "Full catalogue across pack sizes & variants",
       "Cold-pressed coconut, sesame & groundnut oils",
       "Purity-driven brand design",
+    ],
+  },
+  {
+    name: "Portfolio",
+    domain: "My Portfolio",
+    url: "https://gowreeshsenthilkumar.vercel.app/",
+    type: "Personal Branding Website",
+    role: "Solo Developer",
+    image: "https://s3-alpha.figma.com/hub/file/4804648487/51dadeba-428e-4265-ba8e-bfb2bcb0cbda-cover.png",
+    description:
+      "A modern developer portfolio showcasing my technical skills, projects, internships, achievements, and experience — designed and deployed as a professional personal brand website.",
+    tech: ["HTML", "CSS", "JavaScript", "Hostinger"],
+    features: [
+      "Modern responsive portfolio design",
+      "Projects, skills & technical expertise showcase",
+      "Internships, education & achievements",
+      "Interactive project details and live website links",
+      "Professional personal branding"
+    ],
+  },
+    {
+    name: "ZingBee Technologies",
+    domain: "zingbeetechnologies.in/",
+    url: "https://zingbeetechnologies.in/",
+    type: "Technology Solutions Company",
+    role: "Solo Developer",
+    image: "https://horizons-cdn.hostinger.com/ef16012d-06a4-4ea5-992d-2bf54dd62f8a/5ba0ee85898fce402a875820d5748542.png",
+    description:
+      "A professional technology solutions website showcasing Zingbee Technologies' services, expertise, and digital solutions — designed with a modern interface to build a strong online business presence.",
+    tech: ["HTML", "CSS", "JavaScript", "Hostinger"],
+    features: [
+      "Modern responsive business website",
+      "Technology services & solutions showcase",
+      "Professional company profile and branding",
+      "Clear service-focused user experience",
+      "Mobile-friendly design and navigation"
     ],
   },
 ];
@@ -131,7 +167,7 @@ export const EDUCATION = [
   {
     degree: "MBA",
     school: "Sri Krishna College of Engineering and Technology (SKCET)",
-    period: "2026-2028",
+    period: "2026 - 2028",
     note: "",
   },
   {
