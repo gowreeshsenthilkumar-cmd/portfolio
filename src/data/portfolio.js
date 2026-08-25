@@ -129,6 +129,12 @@ export const INTERNSHIPS = [
 
 export const EDUCATION = [
   {
+    degree: "MBA",
+    school: "Sri Krishna College of Engineering and Technology (SKCET)",
+    period: "2026-2028",
+    note: "",
+  },
+  {
     degree: "B.Tech – Information Technology (Honours in AI)",
     school: "Mahendra Engineering College (Autonomous), Namakkal",
     period: "2022 – May 2026",
