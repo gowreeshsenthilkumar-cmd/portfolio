@@ -33,6 +33,8 @@ export function About() {
               marketplace to solar-energy and premium wellness brands, I've handled the
               full lifecycle: design, development, deployment, catalogues, orders, and
               customer workflows.
+              "As a Co-Founder, I’m also involved in shaping digital strategies, managing projects, 
+              understanding business needs, and turning ideas into practical web solutions."
             </p>
             <p className="mt-4 text-white/70 leading-relaxed">
               Alongside development, I've led teams as Class Representative and project
