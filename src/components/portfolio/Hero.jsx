@@ -65,6 +65,8 @@ export default function Hero() {
             Building Digital <br className="hidden sm:block" />
             Experiences That Create{" "}
             <span className="text-gradient">Real Business Impact.</span>
+            <span className="text-gradiant">Co-Founder OF Startup</span>
+             <span className="text-gradiant">Zingbee Technologies</span>
           </motion.h1>
 
           <motion.div
