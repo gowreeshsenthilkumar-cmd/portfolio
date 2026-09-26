@@ -58,16 +58,20 @@ export default function Hero() {
             Available for opportunities
           </motion.div>
 
-          <motion.h1
-            variants={{ hidden: { opacity: 0, y: 24 }, show: { opacity: 1, y: 0 } }}
-            className="font-display text-4xl font-bold leading-[1.05] tracking-tight sm:text-5xl lg:text-6xl"
-          >
-            Building Digital <br className="hidden sm:block" />
-            Experiences That Create{" "}
-            <span className="text-gradient">Real Business Impact.</span>
-            <span className="text-gradiant">Co-Founder OF Startup </span>
-             <span className="text-gradiant">Zingbee Technologies</span>
-          </motion.h1>
+         <motion.h1
+  variants={{
+    hidden: { opacity: 0, y: 24 },
+    show: { opacity: 1, y: 0 },
+  }}
+  className="font-display text-4xl font-bold leading-[1.05] tracking-tight sm:text-5xl lg:text-6xl"
+>
+  Co-Founder at{" "}
+  <span className="text-gradient">Zingbee Technologies.</span>
+  <br />
+  Building Digital <br className="hidden sm:block" />
+  Experiences That Create{" "}
+  <span className="text-gradient">Real Business Impact.</span>
+</motion.h1>
 
           <motion.div
             variants={{ hidden: { opacity: 0, y: 20 }, show: { opacity: 1, y: 0 } }}
