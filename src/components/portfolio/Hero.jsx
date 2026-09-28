@@ -166,8 +166,8 @@ export default function Hero() {
             transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
             className="absolute -bottom-5 -left-5 rounded-2xl glass-strong px-5 py-3 shadow-lg border border-[#16A34A]/20"
           >
-            <div className="font-display text-2xl font-bold text-[#16A34A]">8.53</div>
-            <div className="text-[11px] uppercase tracking-wider text-white/50">CGPA · B.Tech IT</div>
+            <div className="font-display text-2xl font-bold text-[#16A34A]">8.57</div>
+            <div className="text-[11px] uppercase tracking-wider text-white/50">CGPA · B.Tech in IT (Honours in AI)</div>
           </motion.div>
         </motion.div>
       </div>
