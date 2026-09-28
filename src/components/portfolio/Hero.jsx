@@ -7,6 +7,11 @@ const ROLES = [
   "AI & Full-Stack Developer",
   "E-Commerce Platform Builder",
   "Business Solutions Engineer",
+  "B.Tech in IT (Honours in AI)",
+  "MBA Candidate ",
+  "Co-Founder & Full-Stack Developer",
+  "Freelancer",
+  "AI Agent Developer",
 ];
 
 function useTyping(words) {
@@ -65,7 +70,7 @@ export default function Hero() {
   }}
   className="font-display text-4xl font-bold leading-[1.05] tracking-tight sm:text-5xl lg:text-6xl"
 >
-  Co-Founder at{" "}
+  Co-Founder of{" "}
   <span className="text-gradient">Zingbee Technologies.</span>
   <br />
   Building Digital <br className="hidden sm:block" />
