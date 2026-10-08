@@ -42,6 +42,7 @@ export const SKILLS = [
       "Team Leadership",
       "Research & Documentation",
       "Freelancer",
+      "Website Migration",
     ],
   },
 ];
@@ -130,6 +131,17 @@ export const PROJECTS = [
       "Clear service-focused user experience",
       "Mobile-friendly design and navigation"
     ],
+  },
+   {
+    name: "WeHives",
+    domain: "wehivescareers.in",
+    url: "https://wehivecareers.in/",
+    type: "Education Platform",
+    role: "Website Migration",
+    image: "https://wehivecareers.in/Logo.jpeg",
+    description:
+      "Education Service platform Provides Career and Suppoers placement for the students.",
+    tech: ["HTML", "CSS", "JavaScript"],
   },
 ];
 
